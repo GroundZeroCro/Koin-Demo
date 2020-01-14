@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f4e2d25-49b3-4f0b-b9fb-eb2561cedee0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="FxmlFile" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -33,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -44,10 +49,11 @@
       <recent name="service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java Projects\KotlinGradlePractice\src\main\kotlin\koin\module" />
       <recent name="C:\Java Projects\KotlinGradlePractice\src\main\kotlin\koin\application" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.HelloAppTest.testHelloKoinInjection">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="HelloAppTest.testHelloKoinInjection" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -83,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.HelloAppTest.testHelloKoinInjection" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Gradle.HelloAppTest.testHelloKoinInjection" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579028262458</updated>
-      <workItem from="1579028265463" duration="3840000" />
+      <workItem from="1579028265463" duration="5458000" />
     </task>
     <servers />
   </component>
@@ -122,25 +128,45 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1039" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1579032058711" />
+    <state x="1071" y="415" key="#com.intellij.ide.util.MemberChooser" timestamp="1579034957594">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1071" y="415" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1579034957594" />
     <state x="1059" y="351" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1579032028092">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1059" y="351" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579032028092" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1579033878755">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1579035703296">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579033878755" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1579033878755">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579035703296" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1579035703296">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579033878755" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1579033878755">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579035703296" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1579035703295">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579033878755" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1579033878755">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579035703295" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1579035703296">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579033878755" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579035703296" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1579035357148">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579035357148" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1579035357148">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579035357148" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1579035357148">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579035357148" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1579035357148">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579035357148" />
   </component>
 </project>
