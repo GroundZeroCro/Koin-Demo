@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WOkvswKgrJDdmQQcCnJt3jBk7X" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -104,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579028262458</updated>
-      <workItem from="1579028265463" duration="3380000" />
+      <workItem from="1579028265463" duration="3644000" />
     </task>
     <servers />
   </component>
@@ -120,21 +123,21 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1059" y="351" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579032028092" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1579033586996">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1579033878755">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579033586996" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1579033586996">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579033878755" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1579033878755">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579033586996" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1579033586996">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579033878755" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1579033878755">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579033586996" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1579033586996">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579033878755" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1579033878755">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579033586996" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579033878755" />
   </component>
 </project>
