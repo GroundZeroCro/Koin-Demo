@@ -11,6 +11,7 @@ fun main() {
     }
 
     HelloInjection().sayHello()
+    HelloInjection().sayWorld()
     FeatureInjection().showText
 
 }

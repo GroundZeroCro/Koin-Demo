@@ -1,6 +1,6 @@
-package service
+package feature_two.service
 
-import data.HelloMessageData
+import feature_two.data.HelloMessageData
 
 class HelloServiceImpl(private val helloMessageData: HelloMessageData) : HelloService {
 

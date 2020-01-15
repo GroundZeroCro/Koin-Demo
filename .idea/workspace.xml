@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f4e2d25-49b3-4f0b-b9fb-eb2561cedee0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/data/HelloMessageData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/feature_two/data/HelloMessageData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/feature/FeatureContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/feature_one/FeatureContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/feature/FeaturePresenter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/feature_one/FeaturePresenter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/feature/FeatureView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/feature_one/FeatureView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/koin/injection/FeatureInjection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/koin/injection/FeatureInjection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/koin/injection/HelloInjection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/koin/injection/HelloInjection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/koin/module/FeatureModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/koin/module/FeatureModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/koin/module/HelloModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/koin/module/HelloModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/service/HelloService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/feature_two/service/HelloService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/service/HelloServiceImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/feature_two/service/HelloServiceImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/HelloAppTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/HelloAppTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +126,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579028262458</updated>
-      <workItem from="1579028265463" duration="5458000" />
+      <workItem from="1579028265463" duration="6547000" />
+      <workItem from="1579113869346" duration="792000" />
     </task>
     <servers />
   </component>
@@ -128,45 +139,49 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1039" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1579032058711" />
-    <state x="1071" y="415" key="#com.intellij.ide.util.MemberChooser" timestamp="1579034957594">
+    <state x="1071" y="415" key="#com.intellij.ide.util.MemberChooser" timestamp="1579114501009">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1071" y="415" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1579034957594" />
+    <state x="1071" y="415" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1579114501009" />
+    <state x="972" y="624" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579114352607">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="624" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579114352607" />
     <state x="1059" y="351" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1579032028092">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1059" y="351" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579032028092" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1579035703296">
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1579037982538">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579035703296" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1579035703296">
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579037982538" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1579037982538">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579035703296" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1579035703295">
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579037982538" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1579037982538">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579035703295" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1579035703296">
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579037982538" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1579037982538">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579035703296" />
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1579035357148">
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579037982538" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1579037982539">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579035357148" />
-    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1579035357148">
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579037982539" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1579037982538">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579035357148" />
-    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1579035357148">
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579037982538" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1579037982538">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579035357148" />
-    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1579035357148">
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579037982538" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1579037982539">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579035357148" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579037982539" />
   </component>
 </project>

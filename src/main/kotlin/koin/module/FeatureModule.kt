@@ -1,8 +1,8 @@
 package koin.module
 
-import feature.FeatureContract
-import feature.FeaturePresenter
-import feature.FeatureView
+import feature_one.FeatureContract
+import feature_one.FeaturePresenter
+import feature_one.FeatureView
 import org.koin.dsl.module
 
 val featureModule = module {

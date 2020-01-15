@@ -1,4 +1,4 @@
-package feature
+package feature_one
 
 interface FeatureContract {
     interface Presenter {

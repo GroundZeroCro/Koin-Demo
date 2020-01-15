@@ -1,6 +1,6 @@
 package koin.injection
 
-import feature.FeatureContract
+import feature_one.FeatureContract
 import org.koin.core.KoinComponent
 import org.koin.core.inject
 
